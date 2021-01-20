@@ -1,0 +1,44 @@
+{
+  "labels": [
+    "NPAL",
+    "NPAS",
+    "NPK",
+    "TLAL",
+    "TLAS",
+    "TLK"
+  ],
+  "datasets": [
+    {
+      "label": "GraphicsFillPercentage",
+      "backgroundColor": "rgba(255,99,132,0.2)",
+      "borderColor": "rgba(255,99,132,1)",
+      "borderWidth": 1,
+      "hoverBackgroundColor": "rgba(255,99,132,0.4)",
+      "hoverBorderColor": "rgba(255,99,132,1)",
+      "data": [
+        74.55022777335871,
+        69.97785489644963,
+        52.538778094333665,
+        82.6918980620675,
+        81.49437100918232,
+        56.30704549477784
+      ]
+    },
+    {
+      "label": "TopSheetFillPercentage",
+      "backgroundColor": "rgba(112,255,99,0.2)",
+      "borderColor": "rgba(112,255,99,1)",
+      "borderWidth": 1,
+      "hoverBackgroundColor": "rgba(112,255,99,0.4)",
+      "hoverBorderColor": "rgba(112,255,99,1)",
+      "data": [
+        11.694086755262566,
+        13.745203638888562,
+        32.88314566092344,
+        8.714010276058906,
+        8.777492717638625,
+        18.463710391219692
+      ]
+    }
+  ]
+}
